@@ -19,11 +19,11 @@ int main()
     printf("Address of number variable: %x\n", &number);
 
     /* print the address stored in the int pointer */
-    printf("Address stored in ip variable: %x\n", ip );
+    printf("Address stored in ip variable: %x\n", ip);
 
     /* through the int pointer, get the value at it's stored address */
     /* this is the same value as number! yay pointers! */
-    printf("Value of *ip variable: %d\n", *ip );
+    printf("Value of *ip variable: %d\n", *ip);
 
    return 0;
 }

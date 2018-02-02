@@ -16,3 +16,7 @@ To run, just make sure the [index.html](simple-skeleton-example-post/index.html)
 ### Vue and Vuetify Hello World
 
 Like the two projects above, it's as simple as possible to run. Just open the [index.html](vue-and-vuetify-hello-world/index.html) in a web browser with [app.js](vue-and-vuetify-hello-world/app.js) in the same directory. It simply displays Hello World, but has Vue and Vuetify integrated as a simple starting point for learning, testing, and building things with the Vue.js framework.
+
+### C Examples
+
+Just some fun examples of stuff in C. Comments have been added so if the reader doesn't know C, they might get what's actually going on.

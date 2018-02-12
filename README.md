@@ -20,3 +20,7 @@ Like the two projects above, it's as simple as possible to run. Just open the [i
 ### C Examples
 
 Just some fun examples of stuff in C. Comments have been added so if the reader doesn't know C, they might get what's actually going on.
+
+### Canvas Game Template
+
+A very simple starting template for making a HTML5/JS canvas game.

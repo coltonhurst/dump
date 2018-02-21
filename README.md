@@ -25,7 +25,10 @@ This is a simple blog post made using [Skeleton](https://github.com/dhg/Skeleton
 
 To run, just make sure the [index.html](simple-skeleton-example-post/index.html) file as well as the [css](simple-skeleton-example-post/css) and [images](simple-skeleton-example-post/images) folder are in the same directory. Then, open [index.html](simple-skeleton-example-post/index.html) in a web browser (as simple as it could possibly be)!
 
+### Swift
+
+Contains a previous repo which had one class of progress.
+
 ### Vue and Vuetify Hello World
 
 Like the two projects above, it's as simple as possible to run. Just open the [index.html](vue-and-vuetify-hello-world/index.html) in a web browser with [app.js](vue-and-vuetify-hello-world/app.js) in the same directory. It simply displays Hello World, but has Vue and Vuetify integrated as a simple starting point for learning, testing, and building things with the Vue.js framework.
-

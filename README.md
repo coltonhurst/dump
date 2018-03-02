@@ -17,7 +17,9 @@ Just some fun examples of stuff in C. Comments have been added so if the reader 
 
 ### C++
 
-Examples and some work through a C++ book. The cpp-primer was a previous repo.
+Some random C++ examples.
+
+Update 2018-03-02: Moved the C++ Primer code back to its own repo. Going to do more with that.
 
 ### Simple Skeleton Example Post
 

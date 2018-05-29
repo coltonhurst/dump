@@ -1,7 +1,7 @@
 # dump
-Random projects, pieces of code, unfishined projects, etc.
+REPO STATUS: ongoing (just because I will randomly dump things here)
 
-Repo Status: ongoing (just because I will randomly dump things here)
+Random projects, pieces of code, unfishined projects, etc.
 
 ### Bare Bones Weather
 
@@ -28,6 +28,10 @@ Update 2018-03-02: Moved the C++ Primer code back to its own repo. Going to do m
 This is a simple blog post made using [Skeleton](https://github.com/dhg/Skeleton). I've thought about making my own static site generator, and was curious about an extremely simple, responsive blog post, and so I tried it out using Skeleton.
 
 To run, just make sure the [index.html](simple-skeleton-example-post/index.html) file as well as the [css](simple-skeleton-example-post/css) and [images](simple-skeleton-example-post/images) folder are in the same directory. Then, open [index.html](simple-skeleton-example-post/index.html) in a web browser (as simple as it could possibly be)!
+
+### SQL
+
+Some sql examples or stuff from tutorial videos.
 
 ### Swift
 

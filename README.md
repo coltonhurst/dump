@@ -1,6 +1,8 @@
 # dump
 Random projects, pieces of code, unfishined projects, etc.
 
+Repo Status: ongoing (just because I will randomly dump things here)
+
 ### Bare Bones Weather
 
 An extremely simple website that gets the weather by zip code.

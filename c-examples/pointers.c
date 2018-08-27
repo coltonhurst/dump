@@ -10,16 +10,16 @@ int main()
     int number = 8;
 
     /* create the integer pointer */
-    int *int_pointer;
+    int *ip;
 
     /* set the pointer equal to the address (location) of number */
     ip = &number;
 
     /* print the address of the number variable */
-    printf("Address of number variable: %x\n", &number);
+    printf("Address of number variable: %p\n", &number);
 
     /* print the address stored in the int pointer */
-    printf("Address stored in ip variable: %x\n", ip);
+    printf("Address stored in ip variable: %p\n", ip);
 
     /* through the int pointer, get the value at it's stored address */
     /* this is the same value as number! yay pointers! */
